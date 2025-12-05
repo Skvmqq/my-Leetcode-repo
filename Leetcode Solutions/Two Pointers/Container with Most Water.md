@@ -27,6 +27,7 @@ def maxArea_Brute(height: List[int]) -> int:
 Solution 2: Two Pointers (Optimal)
 We move the shorter line inward because that is the only way to potentially find a taller line
 
+```python
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         max_area = 0
