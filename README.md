@@ -1,1 +1,33 @@
 # my-Leetcode-repo
+# 📚 LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems. The goal is to track my progress in Data Structures and Algorithms and store the logic/intuition behind each solution for future revision.
+
+## 🛠️ Languages
+- **Primary:** Python 
+- **Secondary:** SQL
+
+## 📂 Repository Structure
+Solutions are organized by **Topic/Pattern** to make revision easier. Each file includes the code and a brief explanation of the approach.
+
+```text
+/LeetCode-Solutions
+│
+├── Arrays & Hashing
+│   ├── TwoSum.md
+│   └── ContainsDuplicate.md
+│
+├── Two Pointers
+│   └── ValidPalindrome.md
+│
+├── Sliding Window
+│   └── BestTimeToBuyStock.md
+│
+└── Dynamic Programming
+    └── ClimbingStairs.md
+
+
+
+🔗 References
+https://leetcode.com/u/shivamkohli/
+
