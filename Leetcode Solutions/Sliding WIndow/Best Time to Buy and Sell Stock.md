@@ -1,6 +1,6 @@
 
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
+    def maxProfit(self, prices):
         #brute force--time limit Exceeded
         #O(n^2)- Time Complexity
         
@@ -24,6 +24,11 @@ class Solution:
                 left =right
             right=right+1
         return max_profit
+prices=[7,1,5,3,6,4]
+sol=Solution()
+max_profit=sol.maxProfit(prices)
+print(max_profit)
+
 
 
              
