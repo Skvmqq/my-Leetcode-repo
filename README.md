@@ -29,5 +29,5 @@ Solutions are organized by **Topic/Pattern** to make revision easier. Each file 
 
 
 🔗 References
-https://leetcode.com/u/shivamkohli/
+[LeetCode Profile](https://leetcode.com/u/shivamkohli/)
 
