@@ -14,17 +14,17 @@ Solutions are organized by **Topic/Pattern** to make revision easier. Each file 
 /LeetCode-Solutions
 │
 ├── Arrays & Hashing
-│   ├── TwoSum.md
-│   └── ContainsDuplicate.md
+│   ├── TwoSum.ipynb
+│   └── ContainsDuplicate.ipynb
 │
 ├── Two Pointers
-│   └── ValidPalindrome.md
+│   └── ValidPalindrome.ipynb
 │
 ├── Sliding Window
-│   └── BestTimeToBuyStock.md
+│   └── BestTimeToBuyStock.ipynb
 │
 └── Dynamic Programming
-    └── ClimbingStairs.md
+    └── ClimbingStairs.ipynb
 
 
 
