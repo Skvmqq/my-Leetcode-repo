@@ -32,4 +32,5 @@ Solutions are organized by **Topic/Pattern** to make revision easier. Each file 
 
 ## References
 - [LeetCode Profile](https://leetcode.com/u/shivamkohli/)
+- [Linkedin Profile](www.linkedin.com/in/shivam-kohli-67602b240)
 
