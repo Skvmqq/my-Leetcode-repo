@@ -28,6 +28,6 @@ Solutions are organized by **Topic/Pattern** to make revision easier. Each file 
 
 
 
-🔗 References
-[LeetCode Profile](https://leetcode.com/u/shivamkohli/)
+## References
+- [LeetCode Profile](https://leetcode.com/u/shivamkohli/)
 
